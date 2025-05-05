@@ -1,2 +1,2 @@
-# Multiple_PDFS
-This project allows users to upload multiple PDF documents and ask questions across them using Large Language Models (LLMs). It leverages LangChain, vector databases, and embedding models to understand, chunk, store, and retrieve relevant parts of the PDFs for generating context-aware answers.
+This project implements a real-time drowsiness detection system that monitors the driver's eyes using a webcam and alerts them if signs of drowsiness are detected. It uses computer vision, eye aspect ratio (EAR), and optionally a CNN-based eye state classifier to identify prolonged eye closure — a strong sign of sleepiness.
+
